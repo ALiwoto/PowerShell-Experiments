@@ -1,0 +1,134 @@
+[
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "AdditionalMetadata",
+		"MemberType": "NoteProperty",
+		"Definition": "System.Management.Automation.PSCustomObject AdditionalMetadata=@{summary=Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.; versionDownloadCount=1371784; NormalizedVersion=5.3.3; PowerShellVersion=3.0; lastUpdated=12/15/2022 7:12:14 AM +03:30; developmentDependency=False; IsPrerelease=false; Functions=Invoke-Pester Describe Context It Mock InModuleScope BeforeDiscovery BeforeAll BeforeEach AfterEach AfterAll Should Add-ShouldOperator Get-ShouldOperator Export-NUnitReport ConvertTo-NUnitReport Export-JUnitReport ConvertTo-JUnitReport ConvertTo-Pester4Result New-PesterContainer New-PesterConfiguration Assert-VerifiableMock Assert-MockCalled Set-ItResult New-MockObject New-Fixture; created=4/29/2022 9:45:25 AM +04:30; PackageManagementProvider=NuGet; GUID=a699dea5-2c73-4616-a270-1f7abb777e71; FileList=Pester.nuspec|junit_schema_4.xsd|nunit_schema_2.5.xsd|Pester.Format.ps1xml|Pester.ps1|Pester.psd1|Pester.psm1|PesterConfiguration.Format.ps1xml|report.dtd|bin\\net452\\Pester.dll|bin\\net452\\Pester.pdb|bin\\netstandard2.0\\Pester.dll|bin\\netstandard2.0\\Pester.pdb|en-US\\about_BeforeEach_AfterEach.help.txt|en-US\\about_Mocking.help.txt|en-US\\about_Pester.help.txt|en-US\\about_Should.help.txt|en-US\\about_TestDrive.help.txt; downloadCount=12610108; isAbsoluteLatestVersion=False; description=Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system.; ItemType=Module; requireLicenseAcceptance=False; releaseNotes=https://github.com/pester/Pester/releases/tag/5.3.3; updated=2022-12-15T07:12:14Z; SourceName=PSGallery; CompanyName=Pester; isLatestVersion=True; packageSize=271297; tags=powershell unit_testing bdd tdd mocking PSEdition_Core PSEdition_Desktop Windows Linux MacOS PSModule; published=4/29/2022 9:45:25 AM +04:30; Authors=Pester Team; copyright=Copyright (c) 2021 by Pester Team, licensed under Apache 2.0 License.}"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Author",
+		"MemberType": "NoteProperty",
+		"Definition": "string Author=Pester Team"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "CompanyName",
+		"MemberType": "NoteProperty",
+		"Definition": "Object[] CompanyName=System.Object[]"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Copyright",
+		"MemberType": "NoteProperty",
+		"Definition": "string Copyright=Copyright (c) 2021 by Pester Team, licensed under Apache 2.0 License."
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Dependencies",
+		"MemberType": "NoteProperty",
+		"Definition": "Object[] Dependencies=System.Object[]"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Description",
+		"MemberType": "NoteProperty",
+		"Definition": "string Description=Pester provides a framework for running BDD style Tests to execute and validate PowerShell commands inside of PowerShell and offers a powerful set of Mocking Functions that allow tests to mimic and mock the functionality of any command inside of a piece of PowerShell code being tested. Pester tests can execute any command or script that is accessible to a pester test file. This can include functions, Cmdlets, Modules and scripts. Pester can be run in ad hoc style in a console or it can be integrated into the Build scripts of a Continuous Integration system."
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "IconUri",
+		"MemberType": "NoteProperty",
+		"Definition": "uri IconUri=https://raw.githubusercontent.com/pester/Pester/main/images/pester.PNG"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Includes",
+		"MemberType": "NoteProperty",
+		"Definition": "hashtable Includes=System.Collections.Hashtable"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "InstalledDate",
+		"MemberType": "NoteProperty",
+		"Definition": "object InstalledDate=null"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "LicenseUri",
+		"MemberType": "NoteProperty",
+		"Definition": "uri LicenseUri=https://www.apache.org/licenses/LICENSE-2.0.html"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Name",
+		"MemberType": "NoteProperty",
+		"Definition": "string Name=Pester"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "PackageManagementProvider",
+		"MemberType": "NoteProperty",
+		"Definition": "string PackageManagementProvider=NuGet"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "PowerShellGetFormatVersion",
+		"MemberType": "NoteProperty",
+		"Definition": "object PowerShellGetFormatVersion=null"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "ProjectUri",
+		"MemberType": "NoteProperty",
+		"Definition": "uri ProjectUri=https://github.com/Pester/Pester"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "PublishedDate",
+		"MemberType": "NoteProperty",
+		"Definition": "datetime PublishedDate=4/29/2022 9:45:25 AM"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "ReleaseNotes",
+		"MemberType": "NoteProperty",
+		"Definition": "string ReleaseNotes=https://github.com/pester/Pester/releases/tag/5.3.3"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Repository",
+		"MemberType": "NoteProperty",
+		"Definition": "string Repository=PSGallery"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "RepositorySourceLocation",
+		"MemberType": "NoteProperty",
+		"Definition": "string RepositorySourceLocation=https://www.powershellgallery.com/api/v2"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Tags",
+		"MemberType": "NoteProperty",
+		"Definition": "Object[] Tags=System.Object[]"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Type",
+		"MemberType": "NoteProperty",
+		"Definition": "string Type=Module"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "UpdatedDate",
+		"MemberType": "NoteProperty",
+		"Definition": "object UpdatedDate=null"
+	},
+	{
+		"TypeName": "Microsoft.PowerShell.Commands.PSRepositoryItemInfo",
+		"Name": "Version",
+		"MemberType": "NoteProperty",
+		"Definition": "string Version=5.3.3"
+	}
+]

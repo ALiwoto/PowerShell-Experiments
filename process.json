@@ -1,0 +1,52 @@
+[
+    {
+        "ProcessName": "chrome",
+        "CPU": 175.25,
+        "VM": 3485462003712
+    },
+    {
+        "ProcessName": "chrome",
+        "CPU": 148.640625,
+        "VM": 2307993432064
+    },
+    {
+        "ProcessName": "audiodg",
+        "CPU": 96.15625,
+        "VM": 2203484884992
+    },
+    {
+        "ProcessName": "chrome",
+        "CPU": 89.828125,
+        "VM": 2307856859136
+    },
+    {
+        "ProcessName": "devenv",
+        "CPU": 85.328125,
+        "VM": 10417938432
+    },
+    {
+        "ProcessName": "ServiceHub.RoslynCodeAnalysisService",
+        "CPU": 64.484375,
+        "VM": 5250523136
+    },
+    {
+        "ProcessName": "chrome",
+        "CPU": 56.671875,
+        "VM": 3487536762880
+    },
+    {
+        "ProcessName": "explorer",
+        "CPU": 48.59375,
+        "VM": 2204642332672
+    },
+    {
+        "ProcessName": "Telegram",
+        "CPU": 45.046875,
+        "VM": 5524242432
+    },
+    {
+        "ProcessName": "chrome",
+        "CPU": 32.984375,
+        "VM": 2306911961088
+    }
+]
