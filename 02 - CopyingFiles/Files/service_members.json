@@ -1,0 +1,128 @@
+[
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "Name",
+        "MemberType": 1,
+        "Definition": "Name = ServiceName"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "RequiredServices",
+        "MemberType": 1,
+        "Definition": "RequiredServices = ServicesDependedOn"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "BinaryPathName",
+        "MemberType": 4,
+        "Definition": "System.String {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "CanPauseAndContinue",
+        "MemberType": 4,
+        "Definition": "bool CanPauseAndContinue {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "CanShutdown",
+        "MemberType": 4,
+        "Definition": "bool CanShutdown {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "CanStop",
+        "MemberType": 4,
+        "Definition": "bool CanStop {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "Container",
+        "MemberType": 4,
+        "Definition": "System.ComponentModel.IContainer Container {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "DelayedAutoStart",
+        "MemberType": 4,
+        "Definition": "System.Boolean {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "DependentServices",
+        "MemberType": 4,
+        "Definition": "System.ServiceProcess.ServiceController[] DependentServices {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "Description",
+        "MemberType": 4,
+        "Definition": "System.String {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "DisplayName",
+        "MemberType": 4,
+        "Definition": "string DisplayName {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "MachineName",
+        "MemberType": 4,
+        "Definition": "string MachineName {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "ServiceHandle",
+        "MemberType": 4,
+        "Definition": "System.Runtime.InteropServices.SafeHandle ServiceHandle {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "ServiceName",
+        "MemberType": 4,
+        "Definition": "string ServiceName {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "ServicesDependedOn",
+        "MemberType": 4,
+        "Definition": "System.ServiceProcess.ServiceController[] ServicesDependedOn {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "ServiceType",
+        "MemberType": 4,
+        "Definition": "System.ServiceProcess.ServiceType ServiceType {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "Site",
+        "MemberType": 4,
+        "Definition": "System.ComponentModel.ISite Site {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "StartType",
+        "MemberType": 4,
+        "Definition": "System.ServiceProcess.ServiceStartMode StartType {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "StartupType",
+        "MemberType": 4,
+        "Definition": "Microsoft.PowerShell.Commands.ServiceStartupType {get;set;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "Status",
+        "MemberType": 4,
+        "Definition": "System.ServiceProcess.ServiceControllerStatus Status {get;}"
+    },
+    {
+        "TypeName": "System.Service.ServiceController#StartupType",
+        "Name": "UserName",
+        "MemberType": 4,
+        "Definition": "System.String {get;set;}"
+    }
+]
